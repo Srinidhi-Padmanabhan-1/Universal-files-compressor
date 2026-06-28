@@ -1,6 +1,6 @@
 # Universal-files-compressor
 Compresses variety of types of files all at once in a folder, along with files in sub-folders and choice of compression for each sub-folder.
-Basically this is an ultra compressor that compresses a large amount of files in your PC with minimum steps
+Basically this is an ultra compressor that compresses a large amount of different files in your PC with minimum steps
 
 **steps: Install libraries and dependencies**
 
