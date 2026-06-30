@@ -18,7 +18,7 @@ run in terminal: **brew install ffmpeg**
 **Linux (Ubuntu/Debian):**
 run in terminal: **sudo apt install ffmpeg**
 
-
+**3) Download the python file and run**
 
 
 suported file types:
